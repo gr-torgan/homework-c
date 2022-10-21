@@ -1,0 +1,7 @@
+﻿  11.cpp
+C:\Users\Sany\source\repos\11\11\11.cpp(9,20): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sany\source\repos\11\11\11.cpp(12,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sany\source\repos\11\11\11.cpp(13,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sany\source\repos\11\11\11.cpp(15,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sany\source\repos\11\11\11.cpp(30,5): warning C4551: в вызове функции отсутствует список аргументов
+  11.vcxproj -> C:\Users\Sany\source\repos\11\x64\Debug\11.exe

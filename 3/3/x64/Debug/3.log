@@ -1,0 +1,7 @@
+﻿  3.cpp
+C:\Users\Sany\source\repos\3\3\3.cpp(8,29): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sany\source\repos\3\3\3.cpp(10,2): warning C4305: =: усечение из "double" в "float"
+C:\Users\Sany\source\repos\3\3\3.cpp(13,28): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sany\source\repos\3\3\3.cpp(17,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sany\source\repos\3\3\3.cpp(20,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  3.vcxproj -> C:\Users\Sany\source\repos\3\x64\Debug\3.exe

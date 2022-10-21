@@ -1,0 +1,4 @@
+﻿  4.cpp
+C:\Users\Sany\source\repos\4\4\4.cpp(27,13): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Sany\source\repos\4\4\4.cpp(50,5): warning C4551: в вызове функции отсутствует список аргументов
+  4.vcxproj -> C:\Users\Sany\source\repos\4\x64\Debug\4.exe
