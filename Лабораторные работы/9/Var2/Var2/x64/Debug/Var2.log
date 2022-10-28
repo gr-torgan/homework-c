@@ -1,0 +1,91 @@
+﻿  lab9_main.cpp
+  Vector.cpp
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(1,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "строка"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(1,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Games\Microsoft Visual Studio\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+D:\Games\Microsoft Visual Studio\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,12): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(5,1): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(6,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(7,10): error C2065: MAX_SIZE: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(8,7): error C2659: =: функция в качестве левого операнда
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(9,2): error C2065: beg: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(10,26): error C2563: несоответствие в списке формальных параметров
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(10,26): error C2568: <: не удается разрешить перегрузку функции
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(10,26): message : может быть "size_t std::size(const _Ty (&)[_Size]) noexcept"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(10,26): message : или       "unknown-type std::size(const _Container &)"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(11,3): error C2065: beg: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(12,1): warning C4508: Vector: функция должна возвращать значение; предполагается возвращаемый тип "void"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(13,1): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(13,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(13,28): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(14,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(13,9): error C2084: функция "int Vector(int)" уже имеет текст реализации
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(5): message : см. предыдущее определение "Vector"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(15,9): error C2065: v: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(16,2): error C2065: beg: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(16,21): error C2440: инициализация: невозможно преобразовать "overloaded-function" в "size_t"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(16,16): message : Контекст не позволяет устранить неоднозначность перегруженной функции
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(17,26): error C2563: несоответствие в списке формальных параметров
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(17,26): error C2568: <: не удается разрешить перегрузку функции
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(17,26): message : может быть "size_t std::size(const _Ty (&)[_Size]) noexcept"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(17,26): message : или       "unknown-type std::size(const _Container &)"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(18,3): error C2065: beg: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(18,12): error C2065: v: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(20,1): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(20,10): error C2523: <Нет данных>::~Vector: несовпадение тегов деструктор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(21,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(22,6): error C2065: beg: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(22,24): error C2065: beg: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(22,27): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(23,1): warning C4508: Vector: функция должна возвращать значение; предполагается возвращаемый тип "void"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(24,1): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(25,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(26,10): error C2065: MAX_SIZE: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(27,7): error C2659: =: функция в качестве левого операнда
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(28,2): error C2065: beg: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(28,21): error C2440: инициализация: невозможно преобразовать "overloaded-function" в "size_t"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(28,16): message : Контекст не позволяет устранить неоднозначность перегруженной функции
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(29,26): error C2563: несоответствие в списке формальных параметров
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(29,26): error C2568: <: не удается разрешить перегрузку функции
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(29,26): message : может быть "size_t std::size(const _Ty (&)[_Size]) noexcept"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(29,26): message : или       "unknown-type std::size(const _Container &)"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(30,3): error C2065: beg: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(31,1): warning C4508: Vector: функция должна возвращать значение; предполагается возвращаемый тип "void"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(32,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(32,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(32,7): error C2365: Vector: переопределение; предыдущим определением было "функция"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(32,15): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(32,46): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(32,46): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(33,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(33,1): error C2059: синтаксическая ошибка: {
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(33,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(33,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(42,47): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(42,47): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(44,6): error C2065: v: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(47,23): error C2065: v: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(48,11): error C2065: v: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(53,35): error C2061: синтаксическая ошибка: идентификатор "Vector"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(54,1): error C2805: бинарный "operator >>" имеет слишком мало параметров
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(55,22): error C2065: v: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(58,9): error C2065: v: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(62,5): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(65,15): error C2563: несоответствие в списке формальных параметров
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(65,15): error C2568: >=: не удается разрешить перегрузку функции
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(65,15): message : может быть "size_t std::size(const _Ty (&)[_Size]) noexcept"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(65,15): message : или       "unknown-type std::size(const _Container &)"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(66,9): error C2065: beg: необъявленный идентификатор
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(68,8): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(68,26): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(68,1): error C2365: Vector: переопределение; предыдущим определением было "функция"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(68,26): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "+"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(69,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(69,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(75,8): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(75,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(75,1): error C2365: Vector: переопределение; предыдущим определением было "функция"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(75,27): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "--"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(76,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\9\Var2\Var2\Vector.cpp(76,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  Создание кода...
