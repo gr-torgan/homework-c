@@ -3,12 +3,13 @@
 #include <string>
 
 using namespace std;
+char d = 0;
 
 struct Stack {
-    string name;
+    char name;
     unsigned s_dat;
 
-    Stack(const string& name, unsigned s_dat) : name(name), s_dat(s_dat) { ; }
+    Stack(const char& name, unsigned s_dat) : name(name), s_dat(s_dat) { ; }
 };
 
 void showstack(stack<Stack> s)
@@ -25,7 +26,7 @@ void showstack(stack<Stack> s)
 void doing(stack<Stack> s)
 {
     Stack stack = s.top();
-    while (char d != stack.name) {
+    while (d != stack.name) {
         cout << '\t' << stack.name << '\t' << stack.s_dat << endl;
         s.pop();
     }
@@ -35,14 +36,14 @@ void doing(stack<Stack> s)
 
 int main()
 {
-    char d = 0;
+    char d = 1;
     int n = 0;
     stack<Stack> s;
-    s.push(Stack("one", 111));
-    s.push(Stack("two", 222));
-    s.push(Stack("three", 333));
-    s.push(Stack("four", 444));
-    s.push(Stack("five", 555));
+    s.push(Stack(1, 111));
+    s.push(Stack(2, 222));
+    s.push(Stack(3, 333));
+    s.push(Stack(4, 444));
+    s.push(Stack(5, 555));
 
     cout << "The stack is : " << endl;
     showstack(s);
