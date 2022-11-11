@@ -1,0 +1,2 @@
+﻿Lab1.obj : error LNK2001: неразрешенный внешний символ "int k" (?k@@3HA).
+C:\Users\Sany\Desktop\вуз\с++\Лабораторные работы\Lab1\x64\Debug\Lab1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
