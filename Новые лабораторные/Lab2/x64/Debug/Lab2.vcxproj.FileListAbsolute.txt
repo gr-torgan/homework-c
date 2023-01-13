@@ -1,1 +1,2 @@
 C:\Users\Sany\Desktop\вуз\с++\Новые лабораторные\Lab2\x64\Debug\Lab2.exe
+D:\Новая папка\Файлы\вуз\с++\Новые лабораторные\Lab2\x64\Debug\Lab2.exe

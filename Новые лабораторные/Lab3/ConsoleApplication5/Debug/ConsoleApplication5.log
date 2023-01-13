@@ -1,5 +1,5 @@
-﻿  ConsoleApplication5.cpp
-c:\users\student\desktop\3\consoleapplication5\consoleapplication5.cpp(22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\student\desktop\3\consoleapplication5\consoleapplication5.cpp(52): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
-  ConsoleApplication5.vcxproj -> C:\Users\student\Desktop\3\Debug\ConsoleApplication5.exe
-  ConsoleApplication5.vcxproj -> C:\Users\student\Desktop\3\Debug\ConsoleApplication5.pdb (Full PDB)
+﻿  stdafx.cpp
+  ConsoleApplication5.cpp
+D:\Новая папка\Файлы\вуз\с++\Новые лабораторные\Lab3\ConsoleApplication5\ConsoleApplication5.cpp(22,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Новая папка\Файлы\вуз\с++\Новые лабораторные\Lab3\ConsoleApplication5\ConsoleApplication5.cpp(52,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication5.vcxproj -> D:\Новая папка\Файлы\вуз\с++\Новые лабораторные\Lab3\Debug\ConsoleApplication5.exe

@@ -1,0 +1,2 @@
+C:\Users\Sany\Desktop\вуз\с++\Новые лабораторные\Lab9\x64\Debug\Lab9.exe
+D:\Новая папка\Файлы\вуз\с++\Новые лабораторные\Lab9\x64\Debug\Lab9.exe

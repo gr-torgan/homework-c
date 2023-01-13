@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication5.cpp
+D:\Новая папка\Файлы\вуз\с++\Новые лабораторные\Lab3\ConsoleApplication5\ConsoleApplication5.cpp(22,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Новая папка\Файлы\вуз\с++\Новые лабораторные\Lab3\ConsoleApplication5\ConsoleApplication5.cpp(52,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication5.vcxproj -> D:\Новая папка\Файлы\вуз\с++\Новые лабораторные\Lab3\Debug\ConsoleApplication5.exe

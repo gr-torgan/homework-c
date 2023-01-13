@@ -1,0 +1,4 @@
+﻿  Lab7.cpp
+C:\Users\Sany\Desktop\вуз\с++\Новые лабораторные\Lab7\Lab7.cpp(203,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sany\Desktop\вуз\с++\Новые лабораторные\Lab7\Lab7.cpp(142): warning C4715: list::operator[]: значение возвращается не при всех путях выполнения
+  Lab7.vcxproj -> C:\Users\Sany\Desktop\вуз\с++\Новые лабораторные\Lab7\x64\Debug\Lab7.exe
