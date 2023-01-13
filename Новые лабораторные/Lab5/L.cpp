@@ -6,7 +6,7 @@ TEACHER::TEACHER(void) :PERSON()
 TEACHER::~TEACHER(void)
 {
 }
-TEACHER::TEACHER(string M, int C,int G) :PERSON(M, C, P)
+TEACHER::TEACHER(string M, int C,int G) :PERSON(M, C)
 {
 	time = G;
 }

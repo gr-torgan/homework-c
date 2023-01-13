@@ -1,1 +1,2 @@
 C:\Users\Sany\Desktop\вуз\с++\Новые лабораторные\Lab7\x64\Debug\Lab7.exe
+D:\Новая папка\Файлы\вуз\с++\Новые лабораторные\Lab7\x64\Debug\Lab7.exe
