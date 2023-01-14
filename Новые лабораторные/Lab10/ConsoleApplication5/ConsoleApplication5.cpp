@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "Header.h"
 #include <iostream>
+#include <fstream>
 double const con = 15;
 class Pair
 {
@@ -70,6 +71,17 @@ int main()
 		std::cout << "P == P2 \n";
 	else
 		std::cout << "P != P2 \n";
+
+	std::ofstream fo;
+	/*fo.open("file.txt", std::ofstream::app);
+	if (!fo.is_open()) {
+		std::cout << "error";
+	}
+	else
+	{
+		fo << "\nnew data";
+	};*/
+
 
 	system("PAUSE");
 	return 0;
